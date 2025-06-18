@@ -1,4 +1,4 @@
-# Experiência como Aluno(a) - Documentação
+# Experiência como Aluno iniciante - Documentação
 
 Este repositório foi criado para documentar minha experiência de aprendizado utilizando o GitHub, versionamento de código e ferramentas colaborativas no desenvolvimento de projetos.
 
